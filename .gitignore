@@ -1,0 +1,12 @@
+# Compiled binaries
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
